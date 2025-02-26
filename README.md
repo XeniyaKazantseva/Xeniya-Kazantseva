@@ -1,4 +1,4 @@
-# Xeniya-Kazantseva
+![image](https://github.com/user-attachments/assets/ac8c0405-5550-45a6-b29b-07fea567ca83)# Xeniya-Kazantseva
 __Я Ксения Казанцева - начинающая QA-Enginner. Я однажды напишу здесь, что я специалист в области конкретного вида тестирования: нагрузочного, API, безопасности, а может быть и даже тестирование консолей? Сейчас важно то, что я с этим уже разбираюсь. Давай посмотрим, что я уже могу сделать.__
 
 ## My CV
@@ -20,10 +20,16 @@ __Я Ксения Казанцева - начинающая QA-Enginner. Я од
 ## Инструменты и технологии
 <a href="https://www.charlesproxy.com/">
   <img src="https://github.com/qajenna/qajenna/raw/main/icons/Charles.png" width="50" height="50">
-  href="https://proxyman.com">
-  <img src="https://proxyman.imgix.net/assets/images/AppIcon_v2.png?auto=format&fit=max&w=128" width="50" height="50">
 </a>
-
+<a href="https://proxyman.com"
+  <img src="https://github.com/qajenna/qajenna/raw/main/icons/Proxyman.png" width="50" height="50">
+</a>
+<a href="https://developer.android.com/studio"
+  <img src="https://github.com/qajenna/qajenna/raw/main/icons/Android%20Studio.png" width="50" height="50">
+</a>
+<a href="https://figma.com/"
+  <img src="https://github.com/qajenna/qajenna/raw/main/icons/Figma.svg" width="50" height="50">
+</a>
 
 
 
