@@ -18,6 +18,7 @@ __Я Ксения Казанцева - начинающая QA-Enginner. Я од
 - (Здесь) []
 
 ## Инструменты и технологии
+<img src="(https://github.com/user-attachments/assets/57332e4d-7d5e-4945-bea9-10167ca7c74b)" width="200" height="200">
 ![image](https://github.com/user-attachments/assets/57332e4d-7d5e-4945-bea9-10167ca7c74b)
 ![image](https://github.com/user-attachments/assets/2bd3782b-8d98-452c-8796-7ea4055760da)
 ![image](https://github.com/user-attachments/assets/ba7b8acc-3e34-4748-91c2-7cf4b386fde8)
