@@ -18,9 +18,12 @@ __Я Ксения Казанцева - начинающая QA-Enginner. Я од
 - (Здесь) []
 
 ## Инструменты и технологии
-<a href="(https://www.charlesproxy.com/)">
-  <img src="(https://github.com/qajenna/qajenna/raw/main/icons/Charles.png)" width="50" height="50">
+<a href="https://www.charlesproxy.com/">
+  <img src="https://github.com/qajenna/qajenna/raw/main/icons/Charles.png" width="50" height="50">
+  href="https://proxyman.com">
+  <img src="https://proxyman.imgix.net/assets/images/AppIcon_v2.png?auto=format&fit=max&w=128" width="50" height="50">
 </a>
+
 
 
 
