@@ -18,7 +18,9 @@ __Я Ксения Казанцева - начинающая QA-Enginner. Я од
 - (Здесь) []
 
 ## Инструменты и технологии
-[![Alt-текст]((https://github.com/qajenna/qajenna/raw/main/icons/Charles.png))]((https://www.charlesproxy.com/))
+<a href="(https://www.charlesproxy.com/)">
+  <img src="(https://github.com/qajenna/qajenna/raw/main/icons/Charles.png)" width="50" height="50">
+</a>
 
 
 
