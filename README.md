@@ -20,14 +20,14 @@ __Я Ксения Казанцева - начинающая QA-Enginner. Я од
 ## Инструменты и технологии
 <a href="https://www.charlesproxy.com/">
   <img src="https://github.com/qajenna/qajenna/raw/main/icons/Charles.png" width="50" height="50">
-</a>
-<a href="https://proxyman.com"
+
+href="https://proxyman.com"
   <img src="https://github.com/qajenna/qajenna/raw/main/icons/Proxyman.png" width="50" height="50">
-</a>
-<a href="https://developer.android.com/studio"
+
+ href="https://developer.android.com/studio"
   <img src="https://github.com/qajenna/qajenna/raw/main/icons/Android%20Studio.png" width="50" height="50">
-</a>
-<a href="https://figma.com/"
+
+ href="https://figma.com/"
   <img src="https://github.com/qajenna/qajenna/raw/main/icons/Figma.svg" width="50" height="50">
 </a>
 
