@@ -9,7 +9,7 @@ _Я Ксения Казанцева - начинающая QA-Enginner. Я од�
 >"Если вы хотите в чём-то разбираться, но не разбираетесь, начните разбираться — и вы разберётесь."
 
 ## My CV
-[Вы найдете по ссылке](https://drive.google.com/file/d/1ZXOIbgqRSUNEgWoUx1DysbcgHUMRXg7w/view?usp=sharing)
+[Вы найдете по ссылке](https://docs.google.com/document/d/17kglM6AhhcoJwp57c3AQ1RuzkqKRz_hiQrAuN4VyEUA/edit?usp=sharing)
 
 ## *А теперь давайте я покажу, что уже могу делать*
 
@@ -17,7 +17,7 @@ _Я Ксения Казанцева - начинающая QA-Enginner. Я од�
 - (Чек-листы) [https://docs.google.com/spreadsheets/d/14snea771rQ7jKx8cuUX18hOaO-6dHp9utzyL6zF17q4/edit?usp=sharing]
 - (Тест-кейсы) []
 - (Mindmaps) [https://miro.com/app/board/uXjVNinl-c0=/?share_link_id=363217491274]
-- (Баг репорты) []
+- (Баг репорты) [https://drive.google.com/drive/folders/13w3MGLtOVwpJEg33abvBw1hUJyX6jJET?usp=share_link]
 
 ### Коллекция в Postman
 - (Здесь) []
