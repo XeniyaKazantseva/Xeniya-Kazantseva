@@ -15,7 +15,7 @@ _Я Ксения Казанцева - начинающая QA-Enginner. Я од�
 
 ### Тестовая документация
 - (Чек-листы) [https://docs.google.com/spreadsheets/d/14snea771rQ7jKx8cuUX18hOaO-6dHp9utzyL6zF17q4/edit?usp=sharing]
-- (Тест-кейсы) []
+- (Тест-кейсы) [https://docs.google.com/spreadsheets/d/1Nz-nMO2hzb1VVD8DHfj70Cxv3Fk7fZfdFTNd05iCt_M/edit?gid=1525571812#gid=1525571812]
 - (Mindmaps) [https://miro.com/app/board/uXjVNinl-c0=/?share_link_id=363217491274]
 - (Баг репорты) [https://drive.google.com/drive/folders/13w3MGLtOVwpJEg33abvBw1hUJyX6jJET?usp=share_link]
 
