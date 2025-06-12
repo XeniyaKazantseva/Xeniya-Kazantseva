@@ -1,5 +1,5 @@
 # Привет!
-_Я Ксения Казанцева - QA-Enginner. 
+Я Ксения Казанцева - QA-Enginner. 
 
 ## My CV
 [Вы найдете по ссылке](https://docs.google.com/document/d/17kglM6AhhcoJwp57c3AQ1RuzkqKRz_hiQrAuN4VyEUA/edit?usp=sharing)
